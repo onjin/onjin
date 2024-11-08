@@ -7,6 +7,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/onjin/onjin/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<p>have fun: <pre>telnet direct.onjin.net 4000</pre></p>
+
 
 <!--
 **onjin/onjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
