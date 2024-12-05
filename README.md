@@ -1,5 +1,5 @@
 <h1 align="center">Marek Wywiał</h1>
-<h3 align="center">Senior Python Developer</h3>
+<h3 align="center">Python Developer</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onjin/onjin/output/github-contribution-grid-snake-dark.svg" />
@@ -12,8 +12,12 @@
 <hr>
 <p>have fun with my old game: <pre>telnet direct.onjin.net 4000</pre></p>
 <!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onjin&" alt="onjin" /></p-->
-
-
+<p>
+  <a href="https://github.com/onjin/stars">@onjin/stars</a> |
+   <a href="https://github.com/onjin/nix-dev">@onjin/nix-dev</a> |
+      <a href="https://github.com/onjin/samlvpn-nix">@onjin/samlvpn-nix</a>
+    
+</p>
 
 
 
