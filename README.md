@@ -7,8 +7,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/onjin/onjin/output/github-contribution-grid-snake.svg" />
 </picture>
 <hr>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=onjin&show_icons=true&locale=en&layout=compact&theme=dark" alt="onjin" />
-<img src="https://github-readme-stats.vercel.app/api?username=onjin&show_icons=true&locale=en&theme=dark" alt="onjin" style /></p>
+<p>![Stats](./profile/stats.svg)</p>
 <hr>
 <p>have fun with my old game (mostly in Polish): <pre>telnet direct.onjin.net 4000</pre></p>
 <!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onjin&" alt="onjin" /></p-->
